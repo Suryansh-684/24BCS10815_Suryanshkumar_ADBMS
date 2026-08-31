@@ -1,0 +1,1 @@
+SELECT * FROM marks LIMIT 5;

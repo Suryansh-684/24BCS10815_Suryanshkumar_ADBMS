@@ -1,0 +1,3 @@
+SELECT *
+FROM Customer
+LIMIT 3;
